@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: null
 title: "Why I Chose MIS"
 date: 14 Jan 2023
 published: true
@@ -8,8 +9,6 @@ labels:
   - MIS 
 summary: "Why I Chose MIS."
 ---
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
@@ -53,5 +52,3 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 </pre>
 
 <hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
