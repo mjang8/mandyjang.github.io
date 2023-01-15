@@ -4,7 +4,7 @@ type: project
 image: null
 title: "Why I Chose MIS"
 date: 14 Jan 2023
-published: true
+published: false
 labels:
   - MIS 
 summary: "Why I Chose MIS."
