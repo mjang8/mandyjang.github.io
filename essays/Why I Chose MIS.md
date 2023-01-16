@@ -14,4 +14,4 @@ labels:
     
     The process of integrating information technology to solve and make organizational business decisions sounded interesting. I also found that I could explore my passion for design and art through a potential career in web design and web development. Aware of how challenging the major is, I decided to bite the bullet and choose MIS. 
     
-    Although I am treating ITM 352 as a "What is MIS like?" class (despite it being discouraged by Professor Port), I am ready to commit and face the challenges ahead. I sincerely look forward to learning a lot about applications programming and systems development in this class. 
+    Although I am treating ITM 352 as a "What is MIS like?" class (despite it being discouraged by Professor Port), I am ready to commit and face the challenges ahead. I sincerely look forward to learning a lot about applications programming and systems development in this class.
