@@ -8,6 +8,7 @@ published: true
 labels:
   - MIS
 ---
+
     I once spent my entire four years in high school lying to myself and everyone that I wanted to be a nursing student. The idea just randomly stuck when my mom told me that I should become a nurse because I like helping others. People would sometimes tell me that I look like I would be a great nurse, but it really did not mean much to me (although I do appreciate the sentiment!). I eventually became honest with myself and knew that nursing was not for me. 
     
     So I started college as an Exploratory student, which basically meant that I was undeclared. I took UNIV 340 during my second semester, which is a course tailored to help guide students through their personal exploration process. After taking this class, I was able to narrow down my options and further research my career interests. I realized that I enjoyed the high versatility and practicality of business, which motivated me to look into specific majors within the Shidler College of Business. Management Information Systems (MIS) stood out to me the most. 
