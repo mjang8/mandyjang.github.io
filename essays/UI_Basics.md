@@ -4,7 +4,7 @@ type: essay
 title: "E1: UI Technical Basics"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-28
-published: false
+published: true
 labels:
   - WOD
 ---
