@@ -1,0 +1,30 @@
+---
+layout: essay
+type: essay
+title: "E3: Preparing for WODs Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-01-28
+published: false
+labels:
+  - WOD
+---
+
+### BrowserHistory6
+For the [Browser History 6 WOD](https://dport96.github.io/ITM352/morea/040.dynamic-web-pages/experience-browserhistory6.html), we were instructed to re-format the BrowserHistory3 file and split the "History of Browsers" web page into four separate web pages. We created a front page containing the introduction and three buttons that are linked to three pages for each of the three browsers. 
+
+As I mentioned in my E1 essay, I also prepared for this WOD by reviewing the relevant readings and my notes from the screencast. I carefully read the instructions and briefly planned out the steps I needed to take to complete the WOD. If I did not know how to do a certain step(s) in the WOD, I would skip over it first and read the rest of the instructions. 
+
+
+### SmartPhoneProducts1 With Variables 
+The main purpose of the [SmartPhoneProducts1 With Variables WOD](https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html) is to learn how to create and use variables to display products rather than hard-coding the product information.
+
+For the most part, the steps were straightforward. However, on my first try, I had difficulties using regEx for replacing all of the <img> tags, as it was my first time using the tool on VS Code. 
+
+### Invoice1
+For the [Invoice1 WOD](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html), we were instructed to create a sales receipt or invoice for a sale that contains at least five products of our choice. In order to create this invoice, which included the item name, quantity, price, extended price, sub-total, tax, and total, we were required to use expressions and variables to compute the listed values. 
+
+I did not do anything differently in preparing for this WOD, but looking back, I think I should have spent more time reviewing the readings on W3schools, which would have helped me to complete the WOD a little more independently.
+
+My first try took around 45 minutes. Throughout this first try, I referred to parts of the screencast to get me started. Once I knew how to do the first part of a certain step, such as defining the variables, I attempted to do the rest on my own. I struggled to do the table portion on my own, and was honestly pretty lost as to what I needed to do first. I felt guilty for referring to the screencast so often, but I was able to build an understanding with formatting and using the document.write() function. 
+
+I was able to finish my second try in 21 minutes, which I think showed some improvement. However, I still got caught up on formatting mistakes, such as forgetting the semicolon, and not immediately realizing what went wrong. Similar to many of my other WOD experiences, I feel that these mistakes are helping me to be more mindful about formatting and getting into the habit of checking my work more frequently. These minor mistakes costed me some time, so I decided that I wanted to try the WOD again to see if I could finish it faster. In my last try, I finished in Rx time, and I think the whole process went smoothly. 
