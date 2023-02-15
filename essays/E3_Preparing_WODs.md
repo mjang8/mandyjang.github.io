@@ -4,7 +4,7 @@ type: essay
 title: "E3: Preparing for WODs Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-28
-published: true
+published: false
 labels:
   - WOD
 ---
@@ -19,7 +19,7 @@ For this WOD, I struggled getting used to the quotes for the attribute values. I
 ### SmartPhoneProducts1 With Variables 
 The main purpose of the [SmartPhoneProducts1 With Variables WOD](https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html) is to learn how to create and use variables to display products rather than hard-coding the product information.
 
-For the most part, the steps were straightforward. However, on my first try, I had difficulties using regEx for replacing all of the <img> tags, as it was my first time using the tool on VS Code. After finishing the WOD, this [website](https://learn.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022) helped familiarize myself with the different regex characters, operators, and replacement patterns. There is still a lot to learn, but it's a start. I did not do anything differently in preparing for this WOD. However, if I were to do this WOD all over again, I would probably review regex first. 
+For the most part, the steps were straightforward. However, on my first try, I had difficulties using RegEx for replacing all of the <img> tags, as it was my first time using the tool on VS Code. After finishing the WOD, this [website](https://learn.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022) helped familiarize myself with the different RegEx characters, operators, and replacement patterns. There is still a lot to learn, but it's a start. I did not do anything differently in preparing for this WOD. However, if I were to do this WOD all over again, I would probably review RegEx first. 
 
 ### Invoice1
 For the [Invoice1 WOD](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html), we were instructed to create a sales receipt or invoice for a sale that contains at least five products of our choice. In order to create this invoice, which included the item name, quantity, price, extended price, sub-total, tax, and total, we were required to use expressions and variables to compute the listed values. 
