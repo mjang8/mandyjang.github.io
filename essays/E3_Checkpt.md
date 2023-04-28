@@ -4,7 +4,7 @@ type: essay
 title: "Checkpoint Assignment 3"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
-published: false
+published: true
 labels:
   - Assignment 3
 ---
