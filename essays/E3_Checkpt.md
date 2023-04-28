@@ -19,15 +19,15 @@ I plan to have my shopping cart be on a separate page that the user can view and
 
 ### 3. Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
 
-
+I will use sessions to manage my shopping cart by storing cart information, such as the products selected and the selected quantities for each product in the session. I plan to have an array of product objects that each hold information about the specific product. An example of what this would look like is: `request.session['soda']=[{"name":"Mitsuya Cider", "price": 2, "qty_purchased":2}];`
 
 ### 4. How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 
-
+In Assignment 2, I prevented unauthorized access to the invoice by checking whether or not the user's email was in the query URL. I can also do this with cookies (like in the Lab 14 Cookies and Sessions Lab) by using an if statement to check if the cookies has the user's username. If it exists, then the user will proceed to the invoice, and if not, they will be directed to the login page. In this assignment, I will also have to log out a user after a period of inactivity for security purposes. 
 
 ### 5. Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)
 
-
+Upon a successful login, I plan to provide personalization in my UI by changing the login tab on the nav bar to display the user's username. The user can click on this tab to log themselves out. I also have a user-personalized thank you message on the invoice page that addresses the user by their username. I plan to implement these personalization ideas through accessing my cookie and session data. 
 
 ### 6. If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?
 
